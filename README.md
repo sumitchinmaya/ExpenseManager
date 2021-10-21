@@ -1,2 +1,2 @@
 # M-Manager
-money manager -A react project 
+Expense Manager -A react project 
